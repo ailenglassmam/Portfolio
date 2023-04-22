@@ -1,0 +1,30 @@
+TIPOGRAFIAS
+
+Titulos:
+Texto:
+
+h1: text-4xl md:text-5xl xl:text-7xl font-normal lg:leading-none mt-4 (solo inicio)
+h2: text-xl md:text-2xl xl:text-4xl text-[#FE3E00] mb-4 md:mb-9 xl:mb-20 mt-2 (solo inicio)
+
+h2: text-3xl md:text-4xl xl:text-6xl font-normal lg:leading-none mt-4 (contacto / sobre mi)
+h3: text-xl md:text-2xl xl:text-4xl text-[#FE3E00] mb-4 md:mb-9 xl:mb-20 mt-2 (contacto / sobre mi)
+
+h3: text-xl md:text-2xl xl:text-4xl text-black (subsecciones)
+h4:
+h5:
+h6:
+p: text-sm md:text-sm xl:text-lg leading-tight mb-10 md:mb-9 xl:mb-12
+a:
+span:
+
+COLORES
+
+Fondo principal: #F1ECE8
+Fondo secundario: #D1C9F0
+Titulo principal:
+Titulo secundario: #FE3E00
+Texto:
+Botón principal: #F0FF70
+Hover botón principal: #C1F552
+Botón Secundario:
+Gradiente: bg-gradient-to-r from-[#FE9D3E] to-[#D1C9F0]
