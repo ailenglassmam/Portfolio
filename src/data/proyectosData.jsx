@@ -5,7 +5,7 @@ export default [
     institucion: "Frontend Mentor",
     descripcion: "",
     tipologia: "Front End",
-    link: "https://github.com/ailenglassmam/QR-code-component"
+    link: "https://github.com/ailenglassmam/Clipboard-landing-page"
   },
   {
     id: 2,
@@ -29,7 +29,7 @@ export default [
     institucion: "UTN - FRRE. Centro de E-Learning.",
     descripcion: "",
     tipologia: "Back End",
-    link: "https://github.com/ailenglassmam/php-intermedio"
+    link: "https://github.com/ailenglassmam/php-avanzado"
   },
   {
     id: 5,

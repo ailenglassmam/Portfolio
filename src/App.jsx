@@ -1,9 +1,10 @@
-import React from 'react'
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import 'flowbite';
-import './App.css'
-import PaginaInicio from './components/material/PaginaInicio';
-import PaginaSobreMi from './components/material/PaginaSobreMi';
+import React from "react";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import "flowbite";
+import "./App.css";
+import PaginaInicio from "./components/material/PaginaInicio";
+import PaginaSobreMi from "./components/material/PaginaSobreMi";
+
 
 
 
